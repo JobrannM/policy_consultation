@@ -8,7 +8,7 @@ We have a [project board](https://github.com/i4policy/policy_consultation/projec
 
 When all the four milestones are completed, we will be ready to deploy the first national online policy consultation in Africa starting July 2nd.
 
-## User Stories
+## User Stories --
 
 ##### User: innovation hub leaders, founders, employees, entrepreneurs, aspiring entrepreneurs, techies, programmers 
 ##### Admin: Office of Sub-Saharan Country 
